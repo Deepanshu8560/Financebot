@@ -54,51 +54,61 @@ Financebot/
 
 ### 🔧 Installation
 
-```bash
-git clone https://github.com/Deepanshu8560/Financebot.git
-cd Financebot
-npm install
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Deepanshu8560/Portfolio.git
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd financebot
+3. **Install Dependencies:**
+   ```bash
+   npm install
 
-
-
-
-
-
-
-
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
+### ▶️ Run the Development Server
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 📜 Available Scripts
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- dev: Starts the Next.js development server
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- build: Builds the production-ready app
 
-## Learn More
+- start: Runs the app in production mode
 
-To learn more about Next.js, take a look at the following resources:
+  ### 🚀 Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  Deploy instantly to Vercel:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+  1. Push your changes to GitHub.
 
-## Deploy on Vercel
+2. Visit Vercel, import your repository.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Configure necessary environment variables (e.g., email API keys, Prisma DB URL).
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Deploy with one click.
+
+
+### 🤝 Contributing
+
+1. **Fork the repository**
+
+2. **Create a new branch:**
+```bash
+git checkout -b feature/your-feature
+```
+
+3. **Commit your changes:**
+```bash
+git commit -m "Add new feature"
+```
+
+4. **Push the branch:**
+```bash
+git push origin feature/your-feature
+```
+
+5. **Open a Pull Request for review**
+
+   
