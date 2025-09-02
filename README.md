@@ -27,20 +27,21 @@ The project is built using **Next.js**, offering server-side rendering, responsi
 ---
 
 ## 📂 Project Structure
+
 Financebot/
-- app/ # Next.js pages and API endpoints
-- components/ # Reusable UI components
-- data/ # Static or seed data
-- emails/ # Email templates or logic
-- hooks/ # Custom React hooks
-- lib/ # Utilities and shared helpers
-- prisma/ # Prisma schema and migrations
-- public/ # Static assets (e.g., favicon, images)
-- README.md # Project documentation
-- package.json # Dependencies and scripts
-- next.config.mjs # Next.js configuration
-- postcss.config.mjs # CSS tooling config
-- jsconfig.json # Module path configuration
+├── app/ # Next.js pages and API endpoints
+├── components/ # Reusable UI components
+├── data/ # Static or seed data
+├── emails/ # Email templates or logic
+├── hooks/ # Custom React hooks
+├── lib/ # Utilities and shared helpers
+├── prisma/ # Prisma schema and migrations
+├── public/ # Static assets (e.g., favicon, images)
+├── README.md # Project documentation
+├── package.json # Dependencies and scripts
+├── next.config.mjs # Next.js configuration
+├── postcss.config.mjs # CSS tooling config
+└── jsconfig.json # Module path configuration
 
 
 
