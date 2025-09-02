@@ -77,11 +77,11 @@ npm run dev
 
 - start: Runs the app in production mode
 
-  ### 🚀 Deployment
+### 🚀 Deployment
 
-  Deploy instantly to Vercel:
+Deploy instantly to Vercel:
 
-  1. Push your changes to GitHub.
+1. Push your changes to GitHub.
 
 2. Visit Vercel, import your repository.
 
