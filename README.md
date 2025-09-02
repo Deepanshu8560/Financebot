@@ -46,7 +46,18 @@ Financebot/
 ```
 
 
+### ✅ Prerequisites
 
+- Node.js v16+  
+- Yarn or npm  
+- (Optional) OAuth or API keys for AI or email integrations  
+
+### 🔧 Installation
+
+```bash
+git clone https://github.com/Deepanshu8560/Financebot.git
+cd Financebot
+npm install
 
 
 
