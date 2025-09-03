@@ -1,6 +1,7 @@
 # Financebot
 <Image src="public/project-1.png" />
-**AI-FINANCE_PLATFORM** – a modern, AI-powered finance assistant built with **Next.js**, deployable on **Vercel**.
+
+***AI-FINANCE_PLATFORM*** – a modern, AI-powered finance assistant built with **Next.js**, deployable on **Vercel**.
 
 🚀 **Live Demo:** [https://financebot-two.vercel.app](https://financebot-two.vercel.app)  
 📂 **Tech Stack:** JavaScript, React, Next.js, Prisma, Email integration, Tailwind CSS  
